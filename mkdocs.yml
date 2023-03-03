@@ -19,8 +19,8 @@ theme:
     - toc.integrate
 
 # Repository
-repo_name: elinkronander/ELIXIR-lesson-template
-repo_url: https://github.com/elinkronander/ELIXIR-lesson-template
+repo_name: ELIXIR-FAIR-Training/ELIXIR-lesson-template
+repo_url: https://github.com/ELIXIR-FAIR-Training/ELIXIR-lesson-template
 edit_uri: edit/main/docs/
 
 plugins:
