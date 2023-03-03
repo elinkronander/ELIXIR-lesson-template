@@ -72,4 +72,4 @@ If you commit to the branch `main` (the default branch), the website will be aut
 
 This will generate a webpage at:
 
-https://ELIXIR-FAIR-Training.github.io/FAIR-training-handbook
+
