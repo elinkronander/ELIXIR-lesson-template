@@ -1,65 +1,39 @@
 {
-  "upload_type": "lesson",
-  "publication_date": "2023-05-09",
-  "title": "The ELIXIR Training Lesson Template - Developing Training Together",
-  "description": "Template for ELIXIR lessons",
-  "creators": [
-    {
-      "name": "van Geest, Geert",
-      "orcid": "0000-0002-1561-078X",
-      "affiliation": "SIB Swiss Institute of Bioinformatics"
-    },
-    {
-      "name": "Kronander, Elin",
-      "orcid": "0000-0003-0280-6318",
-      "ror":  "https://ror.org/00enajs79"
-    },
-    {
-      "name": "Herrera, Jose Alejandro Romero",
-      "orcid": "https://orcid.org/0000-0002-4765-2087",
-      "affiliation": "Unspecified Affiliation"
-    },
-    {
-      "name": "Žlender, Nadja",
-      "affiliation": "Unspecified Affiliation"
-    },
-    {
-      "name": "Cardona, Alexia",
-      "orcid": "https://orcid.org/0000-0002-7877-5565",
-      "affiliation": "Unspecified Affiliation"
-    }
-  ],
-  "access_right": "open",
-  "keywords": [
-    "FAIR",
-    "OPEN",
-    "Bioinformatics",
-    "Teaching"
-  ],
-  "license": {
-    "id": "CC-BY-4.0"
-  },
-  "related_identifiers": [
-    {
-      "identifier": "https://elixir-europe-training.github.io/ELIXIR-TrP-LessonTemplate-MkDocs/",
-      "scheme": "url",
-      "relation": "IsIdenticalTo"
-    },
-    {
-      "identifier": "https://bioschemas.org/profiles/TrainingMaterial/1.0-RELEASE",
-      "scheme": "url",
-      "relation": "ConformsTo"
-    },
-    {
-      "identifier": "10.5281/zenodo.7913092",
-      "scheme": "doi",
-      "relation": "IsSupplementTo"
-    },
-    {
-      "identifier": "https://doi.org/10.5281/zenodo.7913092",
-      "scheme": "url",
-      "relation": "IsIdenticalTo"
-    }
-  ],
-  "version": "v1.0.0-alpha"
+    "creators": [
+        {
+            "name": "Carberry, Josiah",
+            "orcid": "0000-0002-1825-0097",
+            "affiliation": "Brown University",
+            "type": "ProjectMember"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Lovelace, Ada",
+            "type": "Researcher"
+        },
+        {
+            "name": "Babbage, Charles",
+            "affiliation": "University of Cambridge",
+            "type": "ProjectLeader"
+        }
+    ],
+    "title": "Memory bus simulation scripts",
+    "version": "1.8.0",
+    "access_right": "open",
+    "related_identifiers": [
+        {
+            "identifier": "https://doi.org/10.5555/666655554444",
+            "relation": "isSupplementTo",
+            "resource_type": "publication-article"
+        }
+    ],
+    "keywords": [
+        "computer science",
+        "psychoceramics",
+        "journaling filesystems"
+    ],
+    "license": "mit",
+    "upload_type": "software",
+    "language": "eng"
 }
